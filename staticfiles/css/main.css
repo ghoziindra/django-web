@@ -1,0 +1,30 @@
+
+#profile-wrapper{
+    text-align: center;
+}
+
+body {
+    background-color: rgba(255, 255, 128, .5);
+}
+
+ul{
+    padding: 0;
+    list-style: none;
+}
+
+.social{
+    width: 20px;
+    height: 20px;
+    list-style: none;
+    display: inline-block;
+}
+
+.social-links li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.img1 {
+    width: 200px !important;
+    height: 200px !important;
+}
